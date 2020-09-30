@@ -1,4 +1,5 @@
 # Solidity Contract
+![Solidity Contract](https://image.shutterstock.com/z/stock-photo-two-hands-handshake-polygonal-low-poly-hud-illustration-smart-contract-agreement-blockchain-and-1161295627.jpg)
 
 This code is an example of how an Ethereum-compatible blockchain can help connect financial institutions, through smart contracts that automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
 
