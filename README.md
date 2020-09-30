@@ -1,1 +1,1 @@
-# solidity-contract
+# Solidity Contract
